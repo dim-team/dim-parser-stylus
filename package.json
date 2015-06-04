@@ -1,11 +1,11 @@
 {
   "name": "dim-parser-stylus",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A parser plugin for dim to compile stylus file.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JerroldLee/dim-parser-stylus.git"
+    "url": "https://github.com/dim-team/dim-parser-stylus.git"
   },
   "author": "Jerrold <lijiayouyj@163.com>",
   "license": "MIT",
